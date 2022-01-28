@@ -35,7 +35,7 @@ jobs:
         # If you have a protected branch, you need to create a commit with the
         github_token: ${{ secrets.GITHUB_TOKEN }}
         # (Optional) The files to publish. Default is "posts/**/*.md"
-        files: 'posts/article.md,posts/article3.md'
+        files: 'pages/**/*.md'
         # (Optional) The git branch to use. Default is 'main'.
         branch: main
         # (Optional) Use conventional commit messages. Default is false.
