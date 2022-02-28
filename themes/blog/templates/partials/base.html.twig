@@ -79,10 +79,6 @@
     <!-- skip link -->
     <a href="#content" id="skip-link">Skip to main content</a>
 
-    <header id="top">
-        {% include 'partials/header.html.twig' %}
-    </header>
-
     <div class="wrapper">
 
     {% block sidebar %}
@@ -126,10 +122,6 @@
     </div>
 
     </div>
-
-    <footer>
-        {% include 'partials/footer.html.twig' %}
-    </footer>
 
     {% block bottom %}
         {{ assets.js('bottom')|raw }}
