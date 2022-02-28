@@ -2,7 +2,10 @@
 title: 'What I''m Loving About JavaScript'
 date: '2021-07-21'
 tags:
-    - 'Javascript, Tech, Learning, Python'
+    - Javascript
+    - Tech
+    - Learning
+    - Python
 description: 'With a move over to web development I''ve been studying up on my JavaScript. Having mostly developed in Python I''ve been pondering on the differences and loving all things JS right about now.'
 cover_image: ''
 canonical_url: null
