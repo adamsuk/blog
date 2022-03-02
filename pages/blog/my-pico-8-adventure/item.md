@@ -2,14 +2,13 @@
 title: 'My Pico-8 Adventure'
 media_order: 'game-hat.png,PICO-8_logo.png'
 header_image: PICO-8_logo.png
-date: '2022-03-02'
+date: '02-03-2022 00:00'
 tags:
     - Tech
     - Innovation
     - GameDev
 description: 'Getting ambitious with an innovation day playing with Pico-8 and a Raspberry Pi + Game HAT'
 cover_image: ''
-canonical_url: null
 published: false
 ---
 
@@ -42,3 +41,10 @@ This could be expanded in each area with:
 - change obstacle size, location, speed
 
 Lovely, looks like a decent plan!
+
+... some time later ...
+
+That was an AWESOME DAY!!! Pico-8 ... love it, game HAT ... love it, RetroPIE ... LOVE ... IT!
+
+I feel I was a little ambitious for the day. I've got my build, Pico-8 works with SPLORE (although I need to do a hard reboot to exit). My very own Pico-8 game is still very much based off tutorials. I've got a little man that can move left and right on something that looks like grass but other than that he can't do much. Still my boys were pretty chuffed so I'm counting all of this as a massive win and something else to do between things.
+
