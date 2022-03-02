@@ -1,8 +1,16 @@
 ---
 title: 'My Pico-8 Adventure'
-published: false
 media_order: 'game-hat.png,PICO-8_logo.png'
 header_image: PICO-8_logo.png
+date: '2022-03-02'
+tags:
+    - Tech
+    - Innovation
+    - GameDev
+description: 'Getting ambitious with an innovation day playing with Pico-8 and a Raspberry Pi + Game HAT'
+cover_image: ''
+canonical_url: null
+published: false
 ---
 
 So I've recently fallen HARD for [Pico-8](https://www.lexaloffle.com/pico-8.php). If you've not heard of it it's an indie game platform designed to make developing a game simple. It's $15 and runs on a host of machines ... one of which being a Raspberry Pi!
