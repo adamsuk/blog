@@ -1,6 +1,6 @@
 ---
 title: 'My Pico-8 Adventure'
-media_order: 'game-hat.png,PICO-8_logo.png'
+media_order: 'game-hat.png,PICO-8_logo.png,my-pico-8-game-min.jpg'
 header_image: PICO-8_logo.png
 date: '02-03-2022 00:00'
 tags:
@@ -48,3 +48,11 @@ That was an AWESOME DAY!!! Pico-8 ... love it, game HAT ... love it, RetroPIE ..
 
 I feel I was a little ambitious for the day. I've got my build, Pico-8 works with SPLORE (although I need to do a hard reboot to exit). My very own Pico-8 game is still very much based off tutorials. I've got a little man that can move left and right on something that looks like grass but other than that he can't do much. Still my boys were pretty chuffed so I'm counting all of this as a massive win and something else to do between things.
 
+![my-pico-8-game](my-pico-8-game-min.jpg)
+
+#### Useful Links
+
+- https://tongullman.blogspot.com/2016/10/pico-8-introductory-tutorial.html
+- https://pico-8.fandom.com/wiki/Wiki
+- https://2darray.itch.io/tinyplatformer
+- https://eugene.libguides.com/ld.php?content_id=42775909
