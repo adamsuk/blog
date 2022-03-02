@@ -1,6 +1,6 @@
 ---
 title: 'My Pico-8 Adventure'
-published: false
+published: true
 media_order: 'game-hat.png,PICO-8_logo.png'
 header_image: PICO-8_logo.png
 ---
