@@ -48,7 +48,7 @@ That was an AWESOME DAY!!! Pico-8 ... love it, game HAT ... love it, RetroPIE ..
 
 I feel I was a little ambitious for the day. I've got my build, Pico-8 works with SPLORE (although I need to do a hard reboot to exit). My very own Pico-8 game is still very much based off tutorials. I've got a little man that can move left and right on something that looks like grass but other than that he can't do much. Still my boys were pretty chuffed so I'm counting all of this as a massive win and something else to do between things.
 
-![my-pico-8-game](my-pico-8-game-min.jpg)
+![my-pico-8-game](my-pico-8-game-min.jpg?resize=300,200)
 
 #### Useful Links
 
