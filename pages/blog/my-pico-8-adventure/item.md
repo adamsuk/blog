@@ -1,6 +1,7 @@
 ---
 title: 'My Pico-8 Adventure'
 published: false
+media_order: game-hat.png
 ---
 
 So I've recently fallen HARD for [Pico-8](https://www.lexaloffle.com/pico-8.php). If you've not heard of it it's an indie game platform designed to make developing a game simple. It's $15 and runs on a host of machines ... one of which being a Raspberry Pi!
@@ -11,7 +12,9 @@ With my new found love of small indie games, my passion for tech, a spare Raspbe
 3. I want my young boys to love my creation.
 with step 3 being the real test and determines if I succeeded or not.
 
-A few days before the innovation day I did some googling and found this beast, a [Game HAT for Raspberry Pi](https://www.waveshare.com/game-hat.htm). Perfect. I'd heard of but never used RetroPie, now seemed like the perfect opportunity. There were tons of blogs, articles and comments about getting Pico-8 working on a RetroPie machine, my favourite being this [reddit post](https://www.reddit.com/r/RetroPie/comments/lurmu0/pico8_in_retropie_easy_uptodate_tutorial_with/), nice easy-to-follow steps with working links to code snippets, thanks rhinofinger!
+A few days before the innovation day I did some googling and found this beast, a [Game HAT for Raspberry Pi](https://www.waveshare.com/game-hat.htm).
+![raspberry-pi-game-hat](game-hat.png)
+Perfect. I'd heard of but never used RetroPie, now seemed like the perfect opportunity. There were tons of blogs, articles and comments about getting Pico-8 working on a RetroPie machine, my favourite being this [reddit post](https://www.reddit.com/r/RetroPie/comments/lurmu0/pico8_in_retropie_easy_uptodate_tutorial_with/), nice easy-to-follow steps with working links to code snippets, thanks rhinofinger!
 
 That's the physical done - check. I'm also utilising my new Pi - check. Happy days.
 
