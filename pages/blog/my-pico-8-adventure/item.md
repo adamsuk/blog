@@ -42,17 +42,19 @@ This could be expanded in each area with:
 
 Lovely, looks like a decent plan!
 
-... some time later ...
+### ... some time later ...
 
-That was an AWESOME DAY!!! Pico-8 ... love it, game HAT ... love it, RetroPIE ... LOVE ... IT!
+That was an AWESOME DAY!!! Pico-8 ... love it, game HAT ... love it, RetroPIE ... LOVE ... IT! Lua ... I might learn to love it.
 
-I feel I was a little ambitious for the day. I've got my build, Pico-8 works with SPLORE (although I need to do a hard reboot to exit). My very own Pico-8 game is still very much based off tutorials. I've got a little man that can move left and right on something that looks like grass but other than that he can't do much. Still my boys were pretty chuffed so I'm counting all of this as a massive win and something else to do between things.
+I feel I was a little ambitious for the day. I've got my build, Pico-8 works with SPLORE (although I need to do a hard reboot to exit). My very own Pico-8 game is still very much based off tutorials. I've got a little man that can move left and right on something that looks like grass but other than that he can't do much.
 
-![my-pico-8-game](my-pico-8-game-min.jpg?resize=300,200)
+![my-pico-8-game](my-pico-8-game-min.jpg?resize=600,400)
+
+Still my boys were pretty chuffed so I'm counting all of this as a massive win and something else to do between things.
 
 #### Useful Links
 
-- https://tongullman.blogspot.com/2016/10/pico-8-introductory-tutorial.html
-- https://pico-8.fandom.com/wiki/Wiki
-- https://2darray.itch.io/tinyplatformer
-- https://eugene.libguides.com/ld.php?content_id=42775909
+- [A simple pico-8 game tutorial](https://tongullman.blogspot.com/2016/10/pico-8-introductory-tutorial.html)
+- [Pico-8 wiki ... a fountain of knowledge](https://pico-8.fandom.com/wiki/Wiki)
+- [An awesome example of a platformer for $1](https://2darray.itch.io/tinyplatformer)
+- [A good ol' fashioned cheatsheet](https://eugene.libguides.com/ld.php?content_id=42775909)
