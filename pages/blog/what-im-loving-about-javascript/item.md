@@ -1,6 +1,6 @@
 ---
 title: 'What I''m Loving About JavaScript'
-date: '2021-07-21'
+date: 21-07-2021
 tags:
     - Javascript
     - Tech
