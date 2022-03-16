@@ -10,8 +10,6 @@ tags:
 description: 'With a change of jobs I''ve been studying up on my Ruby. Not only that but after using Nextjs, Expressjs and FastAPI I''m now delving into Rails!'
 cover_image: ''
 published: true
-metadata:
-    slug: '{{ module.slug }}'
 external_links:
     mode: active
 ---
