@@ -1,6 +1,7 @@
 ---
 title: 'What I''m Loving About JavaScript'
 date: 21-07-2021
+slug: what-im-loving-about-javascript
 tags:
     - Javascript
     - Tech
