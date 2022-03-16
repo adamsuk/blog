@@ -11,9 +11,3 @@ content:
         type: item
 ---
 
-Bloggy McBlogFace
-<ul>
-{% for p in page.parent.children if p != page %}
-<li><a href="{{p.url}}">{{ p.title }}</a></li>
-{% endfor %}
-</ul>
