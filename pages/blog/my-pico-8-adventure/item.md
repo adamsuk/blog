@@ -22,7 +22,7 @@ with step 3 being the real test and determines if I succeeded or not.
 
 A few days before the innovation day I did some googling and found this beast, a [Game HAT for Raspberry Pi](https://www.waveshare.com/game-hat.htm).
 
-![raspberry-pi-game-hat](game-hat.png)
+![raspberry-pi-game-hat](/media/game-hat.png)
 
 Perfect. I'd heard of but never used RetroPie, now seemed like the perfect opportunity. There were tons of blogs, articles and comments about getting Pico-8 working on a RetroPie machine, my favourite being this [reddit post](https://www.reddit.com/r/RetroPie/comments/lurmu0/pico8_in_retropie_easy_uptodate_tutorial_with/), nice easy-to-follow steps with working links to code snippets, thanks rhinofinger!
 
@@ -48,7 +48,7 @@ That was an AWESOME DAY!!! Pico-8 ... love it, game HAT ... love it, RetroPIE ..
 
 I feel I was a little ambitious for the day. I've got my build, Pico-8 works with SPLORE (although I need to do a hard reboot to exit). My very own Pico-8 game is still very much based off tutorials. I've got a little man that can move left and right on something that looks like grass but other than that he can't do much.
 
-![my-pico-8-game](my-pico-8-game-min.jpg?resize=600,400)
+![my-pico-8-game](/media/my-pico-8-game.png?resize=400,200)
 
 Still my boys were pretty chuffed so I'm counting all of this as a massive win and something else to do between things.
 
