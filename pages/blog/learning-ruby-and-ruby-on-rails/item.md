@@ -1,6 +1,6 @@
 ---
 title: 'Learning Ruby & Ruby on Rails'
-date: 19-01-2022
+date: '19-01-2022 00:00'
 tags:
     - Ruby
     - Tech
@@ -9,8 +9,11 @@ tags:
     - RoR
 description: 'With a change of jobs I''ve been studying up on my Ruby. Not only that but after using Nextjs, Expressjs and FastAPI I''m now delving into Rails!'
 cover_image: ''
-canonical_url: null
 published: true
+metadata:
+    slug: '{{ module.slug }}'
+external_links:
+    mode: active
 ---
 
 Firstly, it's been far too long! I need to write a completely separate post about the latter half of 2021, I won't delve into that here! This blog is all about my learnings with Ruby and Rails! Exciting stuff.
