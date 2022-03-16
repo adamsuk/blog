@@ -1,6 +1,6 @@
 ---
 title: 'Learning Ruby & Ruby on Rails'
-date: '2022-01-19'
+date: 19-01-2022
 tags:
     - Ruby
     - Tech
