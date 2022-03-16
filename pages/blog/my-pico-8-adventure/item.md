@@ -2,6 +2,7 @@
 title: 'My Pico-8 Adventure'
 header_image: PICO-8_logo.png
 date: 02-03-2022
+slug: my-pico-8-adventure
 tags:
     - Tech
     - Innovation
