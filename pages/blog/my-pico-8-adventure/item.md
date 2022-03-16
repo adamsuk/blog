@@ -1,6 +1,5 @@
 ---
 title: 'My Pico-8 Adventure'
-media_order: 'game-hat.png,PICO-8_logo.png,my-pico-8-game-min.jpg'
 header_image: PICO-8_logo.png
 date: 02-03-2022
 tags:
