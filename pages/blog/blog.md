@@ -1,7 +1,7 @@
 ---
 title: Blog
 content:
-    items: '@root.descendants'
+    items: '@self.children'
     limit: '10'
     order:
         by: date
