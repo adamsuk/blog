@@ -15,11 +15,16 @@ a. Miss some vital stuff
 b. Get outdated quick
 so instead of promising something I'll hate producing and updating I'll give a good overview here and make sure to include links to repositories and useful external sources.
 
-Where to begin. I guess the simplist place is my domain sradams.co.uk. Frontend is dead simple, I love it. I've been using Netlify for a while now but like most things on my personal site I wanted to branch out, so my sites hosted on Vercel. It works a charm with Next.js (given it's made by the same company) and I've never had a problem or need to change it. Great SaaS!
+Where to begin. I guess the simplist place is my domain sradams.co.uk.
 
-My backend services are a little more complicated. For apps I've created like my podcast API I utilise Heroku, again AMAZING! For established and prebuild containers I self host on a HP Microserver Gen8. I've been playing around with containers for close to a decade now and upgraded to a server setup 4 years ago. Before moving over to web dev as a job I used it for Plex on my local network, digitising my music and film catalogues. These days there's a lot more which you can find here. I've always maintained a boundary with my own services, preferring the GitHub integrations and DevOps that comes with it.
+### SaaS
+I love nothing more than having a good excuse trial out a SaaS platform and integrate it into my ecosystem.
+- Vercel - Frontend is dead simple, I love it. I've been using Netlify for a while now but like most things on my personal site I wanted to branch out, so my sites hosted on Vercel. It works a charm with Next.js (given it's made by the same company) and I've never had a problem or need to change it. Great SaaS!
+- Heroku - My backend services are a little more complicated. For apps I've created like my podcast API I utilise Heroku, again AMAZING!
 
 ### Self Hosted
+For established and prebuild containers I self host on a HP Microserver Gen8. I've been playing around with containers for close to a decade now and upgraded to a server setup 4 years ago. Before moving over to web dev as a job I used it for Plex on my local network, digitising my music and film catalogues. These days there's a lot more which you can find here. I've always maintained a boundary with my own services, preferring the GitHub integrations and DevOps that comes with it.
+
 As I alluded to I host a fair amount locally and carefully open the door to my private network for speicifc services.
 - Plex - used less and less these days now streaming services are stepping up but during my wire cutting days I set it up and it came in useful during lockdown. No DNS records needed as it's all registered and routed through Plex with auth.
 - Nextcloud - self hosted cloud storage. Used more and more as a form of automated backups for things like photos on mobile devices but also extremely useful for sharing files. I used this for a long time on LAN but recently opened it up on a subdomain and love the flexibility.
