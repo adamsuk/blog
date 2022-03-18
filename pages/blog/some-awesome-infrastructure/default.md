@@ -10,3 +10,5 @@ cover_image: ''
 canonical_url: null
 ---
 
+Hey so I've got every intention of this page being the single point of truth about my entire infrastructure setup. I'm a little worried this'll
+a. Miss some vital stuff
