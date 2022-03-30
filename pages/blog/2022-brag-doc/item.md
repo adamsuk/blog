@@ -19,7 +19,7 @@ After reading a [little article about celebrating successes](https://github.com/
 
 - Introduced [Grav to my personal site](https://github.com/adamsuk/sradams-co-uk-content/pull/63/files) to host blog content like this!
 - Refactored my CloudFront Terraform into a reusable module. I've still got my skills 💪
-- Completed my very first Triathlon! 400m swim, 22km bike and 5km run at [East Leake Triathlon in 1hour 36mins](https://www.titaniumracetiming.co.uk/TRT/races/index/189/page:6?url=races%2Findex%2F189).
+- Completed my very first Triathlon! 400m swim, 22km bike and 5km run at [East Leake Triathlon in 1hour 36mins](https://www.titaniumracetiming.co.uk/TRT/pages/event_rider_detail/189/167580).
 - Started as an instructor at [Code First Girls](https://codefirstgirls.com/courses/classes/uni-kickstarter/) teach an "Introduction to Web Development".
 
 ### February
