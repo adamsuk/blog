@@ -1,6 +1,6 @@
 ---
 title: '2022 Brag Doc'
-date: 30-03-2022
+date: '30-03-2022 00:00'
 slug: 2022-brag-doc
 tags:
     - Tech
@@ -9,6 +9,8 @@ tags:
 description: 'Giving bragging a go for 2022'
 cover_image: ''
 published: true
+external_links:
+    mode: active
 ---
 
 After reading a [little article about celebrating successes](https://github.com/readme/guides/document-success) I wanted to give it a whirl, so before I forget what I've got for a quarter of 2022 I thought I'd get it started! My plan is to add to this as the year progresses.
