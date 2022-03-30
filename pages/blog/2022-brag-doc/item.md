@@ -16,8 +16,11 @@ After reading a [little article about celebrating successes](https://github.com/
 ### January
 
 - Deployed an end-to-end working platform for loan originations. Utilised [Apollo Express GraphQL servers](https://www.apollographql.com/docs/apollo-server/) to orchestrate services calls with business logic in [FastAPI](https://fastapi.tiangolo.com/) and data obtained from 3rd party APIs. All hosted on [GKE](https://cloud.google.com/kubernetes-engine) and accessible via NGINX. It worked and it was absolute boss and left Koodoo on a high.
+- Refactored my [personal site](https://github.com/adamsuk/sradams-co-uk-content/pull/45/files) into a super-slick Next.js MACHINE!
 - Started my new role as Senior Software Engineer at the [Raspberry Pi Foundation](https://www.raspberrypi.org/about/meet-the-team/)!
-- Deployed my first change to production on the Code Club World site - only a minor improvement to centralise a clicked activity popup but I got it in early!!
+- Deployed my first change to production on the Code Club World site - only a minor improvement to centralise a clicked activity popup but I got it in early!! 🥳
+
+![my-first-rpf-prod-change](page://media/my-first-rpf-prod-change.png?resize=600,400)
 
 ### February
 
@@ -26,5 +29,7 @@ After reading a [little article about celebrating successes](https://github.com/
 
 ### March
 
+- Introduced [Grav to my personal site](https://github.com/adamsuk/sradams-co-uk-content/pull/63/files) to host blog content like this!
+- Refactored my CloudFront Terraform into a reusable module. I've still got my skills 💪
 - Completed my very first Triathlon! 400m swim, 22km bike and 5km run at [East Leake Triathlon in 1hour 36mins](https://www.titaniumracetiming.co.uk/TRT/races/index/189/page:6?url=races%2Findex%2F189).
 - Started as an instructor at [Code First Girls](https://codefirstgirls.com/courses/classes/uni-kickstarter/) teach an "Introduction to Web Development".
