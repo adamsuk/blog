@@ -1,7 +1,7 @@
 ---
 title: 'Some Awesome Infrastructure'
 slug: some-awesome-infrastructure
-date: 30-03-2022
+date: '30-03-2022 00:00'
 tags:
     - Ramblings
     - Tech
