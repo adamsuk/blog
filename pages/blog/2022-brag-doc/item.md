@@ -1,6 +1,6 @@
 ---
 title: '2022 Brag Doc'
-date: '30-03-2022 00:00'
+date: 30-03-2022
 slug: 2022-brag-doc
 tags:
     - Tech
