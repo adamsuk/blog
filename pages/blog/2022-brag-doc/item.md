@@ -1,6 +1,6 @@
 ---
 title: '2022 Brag Doc'
-date: 30-03-2022
+date: '30-03-2022 00:00'
 slug: 2022-brag-doc
 tags:
     - Tech
@@ -18,6 +18,8 @@ After reading a [little article about celebrating successes](https://github.com/
 ### April
 
 - Ruby badge service I helped develop was deployed on the Raspberry Pi Foundation projects site for the [new Scratch pathway](https://projects.raspberrypi.org/en/pathways/scratch-intro) 😍
+- Holidayed for the first time in 2 years with my family in Spain!!
+- My first page from scratch for RPF went live on [Code Club World](https://codeclubworld.org/parents)
 
 ### March
 
