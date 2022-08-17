@@ -27,6 +27,7 @@ After reading a [little article about celebrating successes](https://github.com/
 
 - My Raspberry Pi position was confirmed permanent so I'll be sticking around the RPF 🥳
 - Tasked with and presented my approach to a complete overhaul of project site pathways (e.g. [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro)). Working with the designers with their slick designs in hand we broke it down into an MVP and chunked the work up to allow multiple devs to work on it. This included the use of a new design system approach and Storybook implementation for quick design feedback.
+- Gave a team tech talk on Terraform basics, a nice little Terraform 101 session that was well received and blew away some IaC cobwebs with some code examples.
 
 ### June
 
