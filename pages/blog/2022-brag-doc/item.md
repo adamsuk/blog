@@ -19,13 +19,16 @@ After reading a [little article about celebrating successes](https://github.com/
 
 - Started as a Senior Lead Instructor at Code First Girls for the next cohort of fullstack students.
 - Went to my first music festival post-covid with my dad and saw plenty of awesome bands and comedians at Tramlines in Sheffield.
+- Stepping up at RPF and helping with backlog refinement, sprint planning and generally being available for tech questions 😊
 
 ### July
 
 - My Raspberry Pi position was confirmed permanent so I'll be sticking around the RPF 🥳
+- Tasked with and presented my approach to a complete overhaul of project site pathways. Working with the designers with their slick designs in hand we broke it down into an MVP and chunked the work up to allow multiple devs to work on it. This included the use of a new design system approach and Storybook implementation for quick design feedback.
 
 ### June
 
+- Smashed some DevOps by adding some functionality to automatically add/remove GitHub Actions to project site content repositories to speed up S3 uploads. We've gone from 14min builds (almost hitting hard timeouts) to 3mins for our biggest projects due to the S3 uploads now being seconds! 😎
 - Ran my first ever half marathon at the [Nottingham Holme Run in 1hour 59minutes 7seconds](http://results.eventchiptiming.com/myresults.aspx?uid=16202-8300-3-185966) 💪
 - Furthered my Postgres skills with new Google DataStudio dashboards and queries for business reporting using in-app data.
 
@@ -33,6 +36,7 @@ After reading a [little article about celebrating successes](https://github.com/
 
 - A data focused month at work saw my pick up and write my own complex PostgreSQL queries. I've maintained and partially wrote business analytics queries before but this was my first time solo and end-to-end! From changing the administrate dashboards for tagging content to writing a query to tag old content and cascade it through to new Google DataStudio dashboards.
 - Started as a freelance instructor for [Code First Girls](https://codefirstgirls.com/) as one of the leads for the fullstack specialism!
+- Wrote a nice little chunk of code I was proud of to compare two XML snippets for key differences, this was used in Code Club World to award badges for remixed Scratch projects.
 
 ### April
 
