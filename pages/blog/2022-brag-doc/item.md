@@ -18,19 +18,23 @@ After reading a [little article about celebrating successes](https://github.com/
 ### August
 
 - Started as a Senior Lead Instructor at Code First Girls for the next cohort of fullstack students.
-- Went to my first music festival post-covid with my dad and saw plenty of awesome bands and comedians at Tramlines in Sheffield.
 - Stepping up at RPF and helping with backlog refinement, sprint planning and generally being available for tech questions 😊
+- Went to my first music festival post-covid with my dad and saw plenty of awesome bands and comedians at Tramlines in Sheffield.
+
+![tramlines-2022](page://media/tramlines-2022.jpeg?resize=600,350)
 
 ### July
 
 - My Raspberry Pi position was confirmed permanent so I'll be sticking around the RPF 🥳
-- Tasked with and presented my approach to a complete overhaul of project site pathways. Working with the designers with their slick designs in hand we broke it down into an MVP and chunked the work up to allow multiple devs to work on it. This included the use of a new design system approach and Storybook implementation for quick design feedback.
+- Tasked with and presented my approach to a complete overhaul of project site pathways (e.g. [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro)). Working with the designers with their slick designs in hand we broke it down into an MVP and chunked the work up to allow multiple devs to work on it. This included the use of a new design system approach and Storybook implementation for quick design feedback.
 
 ### June
 
-- Smashed some DevOps by adding some functionality to automatically add/remove GitHub Actions to project site content repositories to speed up S3 uploads. We've gone from 14min builds (almost hitting hard timeouts) to 3mins for our biggest projects due to the S3 uploads now being seconds! 😎
 - Ran my first ever half marathon at the [Nottingham Holme Run in 1hour 59minutes 7seconds](http://results.eventchiptiming.com/myresults.aspx?uid=16202-8300-3-185966) 💪
 - Furthered my Postgres skills with new Google DataStudio dashboards and queries for business reporting using in-app data.
+- Smashed some DevOps by adding some functionality to automatically add/remove GitHub Actions to project site content repositories to speed up S3 uploads. We've gone from 14min builds (almost hitting hard timeouts) to 3mins for our biggest projects due to the S3 uploads now being seconds! 😎
+
+![s3-github-action-bossed](page://media/s3-github-action-bossed.png?resize=600,250)
 
 ### May
 
