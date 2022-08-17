@@ -1,6 +1,6 @@
 ---
 title: '2022 Brag Doc'
-date: 29-04-2022
+date: '29-04-2022 00:00'
 slug: 2022-brag-doc
 tags:
     - Tech
@@ -14,6 +14,25 @@ external_links:
 ---
 
 After reading a [little article about celebrating successes](https://github.com/readme/guides/document-success) I wanted to give it a whirl, so before I forget what I've got for a quarter of 2022 I thought I'd get it started! My plan is to add to this as the year progresses.
+
+### August
+
+- Started as a Senior Lead Instructor at Code First Girls for the next cohort of fullstack students.
+- Went to my first music festival post-covid with my dad and saw plenty of awesome bands and comedians at Tramlines in Sheffield.
+
+### July
+
+- My Raspberry Pi position was confirmed permanent so I'll be sticking around the RPF 🥳
+
+### June
+
+- Ran my first ever half marathon at the [Nottingham Holme Run in 1hour 59minutes 7seconds](http://results.eventchiptiming.com/myresults.aspx?uid=16202-8300-3-185966) 💪
+- Furthered my Postgres skills with new Google DataStudio dashboards and queries for business reporting using in-app data.
+
+### May
+
+- A data focused month at work saw my pick up and write my own complex PostgreSQL queries. I've maintained and partially wrote business analytics queries before but this was my first time solo and end-to-end! From changing the administrate dashboards for tagging content to writing a query to tag old content and cascade it through to new Google DataStudio dashboards.
+- Started as a freelance instructor for [Code First Girls](https://codefirstgirls.com/) as one of the leads for the fullstack specialism!
 
 ### April
 
