@@ -1,6 +1,6 @@
 ---
 title: 'Personal Profile'
-level: null
+level: 1
 collapsable: true
 ---
 
