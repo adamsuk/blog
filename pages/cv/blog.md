@@ -4,6 +4,8 @@ content:
     items: '@self.descendants'
     limit: '10'
     pagination: '1'
+    order:
+        dir: desc
     filter:
         type: item
 ---
