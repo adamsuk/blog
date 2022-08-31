@@ -1,7 +1,7 @@
 ---
 title: 'Senior Software Engineer, Raspberry Pi Foundation (01/2022 - Present)'
 level: 2
-collapsable: true
+collapsable: false
 ---
 
 #### Fully Remote
