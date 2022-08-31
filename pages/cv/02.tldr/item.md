@@ -1,5 +1,6 @@
 ---
 title: TL;DR
+collapsable: false
 ---
 
 Experience: Senior Software Engineer, Platform Engineer, Nuclear Engineer, Physicist, DevOps Advocate\
