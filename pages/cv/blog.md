@@ -1,5 +1,5 @@
 ---
-title: 'Scott Adams – Curriculum Vitae'
+title: 'Scott Adams – Curriculum Vitae blah'
 content:
     items: '@self.children'
     limit: '10'
