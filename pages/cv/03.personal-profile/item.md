@@ -1,5 +1,6 @@
 ---
 title: 'Personal Profile'
+collapsable: true
 ---
 
 I'm currently a Senior Software Engineer at [Raspberry Pi Foundation](https://www.raspberrypi.org/). Having made the transition to technology from an engineering background I relish focusing solely on the tools and approaches used in a modern web stack. My day-to-day involves a wide range of activities ranging from frontend developments (typically React), backend developments (typically Ruby on Rails), DevOps CI/CD pipelines and taking part in agile meetings and activities. I've held a variety of roles, predominantly software focused. My initial exposure to software development was as an engineer at Rolls-Royce. This role allowed me to learn analytical and simulation skills in a wide range of exciting and varied projects in the nuclear sector.
