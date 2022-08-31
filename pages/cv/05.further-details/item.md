@@ -1,5 +1,6 @@
 ---
 title: 'Further Details'
+collapsable: true
 ---
 
 - Conferences – ICONE 26 presenter (robust design approaches) and co-author (two-staged validation), Microsoft Build 2020 (attendee), GitLab Commit 2020 (presenter), DevOps Live 2020 & 2021 (panelist), AWS Summit EMEA 2022 (attendee).
