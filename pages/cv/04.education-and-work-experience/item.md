@@ -1,8 +1,6 @@
 ---
-title: education-and-work-experience
+title: 'Education and Work Experience'
 ---
-
-## Education and Work Experience
 
 ### Senior Software Engineer, Raspberry Pi Foundation (01/2022 - Present)
 
