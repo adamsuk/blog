@@ -1,11 +1,5 @@
 ---
 title: 'Education and Work Experience'
-content:
-    items: '@self.descendants'
-    limit: '10'
-    pagination: '1'
-    filter:
-        type: item
 ---
 
 ### Senior Software Engineer, Koodoo - Mortgage Power Ltd (08/2021 - 01/2022)
