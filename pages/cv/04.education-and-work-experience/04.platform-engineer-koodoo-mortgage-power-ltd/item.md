@@ -1,5 +1,5 @@
 ---
-title: 'Platform Engineer, Koodoo - Mortgage Power Ltd'
+title: 'Platform Engineer, Koodoo - Mortgage Power Ltd (11/2020 - 08/2020)'
 level: 2
 ---
 
