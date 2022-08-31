@@ -5,7 +5,7 @@ content:
     limit: '10'
     pagination: '1'
     order:
-        dir: desc
+        dir: asc
     filter:
         type: item
 ---
