@@ -1,5 +1,6 @@
 ---
 title: TL;DR
+level: 1
 collapsable: false
 ---
 
