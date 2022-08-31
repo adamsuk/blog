@@ -1,5 +1,6 @@
 ---
 title: 'Further Details'
+level: 1
 collapsable: true
 ---
 
