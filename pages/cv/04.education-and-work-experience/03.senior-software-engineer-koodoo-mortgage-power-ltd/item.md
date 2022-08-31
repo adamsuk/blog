@@ -1,7 +1,7 @@
 ---
 title: 'Senior Software Engineer, Koodoo - Mortgage Power Ltd (08/2021 - 01/2022)'
 level: 2
-collapsable: true
+collapsable: false
 ---
 
 #### Fully Remote
