@@ -1,7 +1,7 @@
 ---
 title: 'Education and Work Experience'
 content:
-    items: '@self.children'
+    items: '@self.descendants'
     limit: '10'
     pagination: '1'
     filter:
