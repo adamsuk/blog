@@ -1,7 +1,7 @@
 ---
 title: 'Performance Methods Lead, Rolls-Royce - UK SMR (02/2020 - 11/2020)'
 level: 2
-collapsable: true
+collapsable: false
 ---
 
 #### Rolls-Royce, Jubilee House, Derby.
