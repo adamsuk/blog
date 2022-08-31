@@ -1,7 +1,7 @@
 ---
 title: 'Scott Adams – Curriculum Vitae'
 content:
-    items: '@self.children'
+    items: '@self.descendants'
     limit: '10'
     pagination: '1'
     filter:
