@@ -1,6 +1,6 @@
 ---
 title: 'Education and Work Experience'
-collapsable: true
+collapsable: false
 content:
     items: '@self.children'
     pagination: '1'
