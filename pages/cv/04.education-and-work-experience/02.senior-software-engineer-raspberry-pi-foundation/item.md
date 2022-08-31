@@ -1,6 +1,6 @@
 ---
 title: 'Senior Software Engineer, Raspberry Pi Foundation'
-level: 3
+level: 2
 ---
 
 #### Fully Remote
