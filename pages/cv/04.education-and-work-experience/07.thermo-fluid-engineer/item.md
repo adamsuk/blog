@@ -1,6 +1,7 @@
 ---
 title: 'Thermo-Fluid Engineer, Rolls-Royce (01/2016 - 02/2020)'
 level: 2
+collapsable: true
 ---
 
 #### Raynesway, Derby.
