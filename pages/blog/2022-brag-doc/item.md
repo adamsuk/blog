@@ -1,6 +1,6 @@
 ---
 title: '2022 Brag Doc'
-date: 17-08-2022
+date: '17-08-2022 00:00'
 slug: 2022-brag-doc
 tags:
     - Tech
@@ -14,6 +14,19 @@ external_links:
 ---
 
 After reading a [little article about celebrating successes](https://github.com/readme/guides/document-success) I wanted to give it a whirl, so before I forget what I've got for a quarter of 2022 I thought I'd get it started! My plan is to add to this as the year progresses.
+
+### October
+
+- Got the Software Engineering Manager role!! 😮
+- Under 7s team won our first game.
+
+### September
+
+- Finished teaching and marking my first cohort of future Fullstack engineers with CFG.
+- Started managing my boys u7s football team on Sunday mornings.
+- Completed the pathways improvements epic with the team 💪 you can check it out [here](https://projects.raspberrypi.org/en/pathways/scratch-intro) 😍
+
+![new-pathways](page://media/pathways-improvements.png?resize=600,600)
 
 ### August
 
