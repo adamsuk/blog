@@ -15,15 +15,23 @@ external_links:
 
 After reading a [little article about celebrating successes](https://github.com/readme/guides/document-success) I wanted to give it a whirl, so before I forget what I've got for a quarter of 2022 I thought I'd get it started! My plan is to add to this as the year progresses.
 
+### November
+
+- Started my Software Engineering Manager role 😁
+- Smashed my 5 min/km goal across a 10k with a time of 48:50 mins.
+- Surfaced project search data in a Data Studio dashboard to inform future search improvements and potential content gaps 🤓
+
 ### October
 
 - Got the Software Engineering Manager role!! 😮
 - Under 7s team won our first game.
+- Implemented a BUNCH of [CodeClub World gallery](https://codeclubworld.org/gallery) improvements with the team, go check it out.
 
 ### September
 
 - Finished teaching and marking my first cohort of future Fullstack engineers with CFG.
 - Started managing my boys u7s football team on Sunday mornings.
+- Smashed my 5 min/km goal across a 5k with a time of 23:30 mins.
 - Completed the pathways improvements epic with the team 💪 you can check it out [here](https://projects.raspberrypi.org/en/pathways/scratch-intro) 😍
 
 ![new-pathways](page://media/pathways-improvements.png?resize=600,600)
