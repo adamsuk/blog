@@ -1,3 +1,68 @@
+# v1.10.39
+## 02/19/2023
+
+1. [](#bugfix)
+   * Forked and fixed PicoFeed library to support PHP 8.2
+
+# v1.10.38
+## 01/02/2023
+
+1. [](#new)
+   * Update copyright dates
+   * Keep version number in sync with Grav version
+
+# v1.10.37.1
+## 10/08/2022
+
+1. [](#bugfix)
+   * Removed new GumRoad cart icon + new button styling [getgrav/grav#3631](https://github.com/getgrav/grav/issues/3631)
+
+# v1.10.37
+## 10/05/2022
+
+1. [](#improved)
+   * Updated vendor libraries to latest versions
+   * Removed a reference to `SwiftMailer` library to support new **Email** plugin v4.0
+
+# v1.10.36
+## 09/08/2022
+
+1. [](#bugfix)
+   * Fixed `fieldset.html.twig` not rendering with `markdown: false` [#2313](https://github.com/getgrav/grav-plugin-admin/pull/2313)
+
+# v1.10.35
+## 08/04/2022
+
+1. [](#improved)
+   * Improvements in CodeMirror editor in RTL mode [#359](https://github.com/getgrav/grav-plugin-admin/issues/359), [#2297](https://github.com/getgrav/grav-plugin-admin/pull/2297)
+
+# v1.10.34
+## 06/22/2022
+
+1. [](#improved)
+   * Exposed `UriToMarkdown` util (`Grav.default.Utils.UriToMarkdown`) in admin, to convert links/images
+1. [](#bugfix)
+   * Fixed `Latest Page Updates` permissions [#2294](https://github.com/getgrav/grav-plugin-admin/pull/2294)
+
+# v1.10.33.1
+## 04/25/2022
+
+1. [](#bugfix)
+   * Reverted [PR#2265](https://github.com/getgrav/grav-plugin-admin/pull/2265) as it broke sections output
+
+# v1.10.33
+## 04/25/2022
+
+1. [](#new)
+  * Require **Form 6.0.1**
+2. [](#improved)
+   * Added support for a single `field:` vs `fields:` in element form field to store a single value to the option field
+   * Allow new media collapser logic to configure different cookie storage name location via `data-storage-location`
+1. [](#bugfix)
+   * Fixed nested element form fields
+   * Fixed `columns` and `column` fields with `.dotted` variables inside to ignore columns and column names
+   * Fixed initial elements state not being restored
+
 # v1.10.32
 ## 03/28/2022
 
