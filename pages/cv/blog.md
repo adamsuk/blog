@@ -9,5 +9,3 @@ content:
     filter:
         type: item
 ---
-
-test page for CV
