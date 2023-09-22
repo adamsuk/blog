@@ -1,5 +1,5 @@
 ---
-title: 'Senior Software Engineer, Raspberry Pi Foundation (11/2022 - Present)'
+title: 'Software Engineering Manager, Raspberry Pi Foundation (11/2022 - Present)'
 level: 2
 collapsable: false
 ---
