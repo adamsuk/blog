@@ -6,5 +6,5 @@ collapsable: false
 
 #### Raynesway, Derby.
 
-- Additional section leader responsibilities for an ambitious cross-business unit integration project linking thermal hydraulic response to component fatigue, responsible for planning, monitoring and programme delivery.
-- Two direct reports and the integration of work from another three engineers.
+- Additional section leader responsibilities for an ambitious cross-business unit integration project linking thermal hydraulic response to component fatigue utilising Python for running on an onsite High Performance Computer.
+- Resposible fort two developers and integrating the work from a further three engineers in a cross-functional team.

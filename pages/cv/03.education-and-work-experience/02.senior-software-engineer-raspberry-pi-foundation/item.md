@@ -6,6 +6,5 @@ collapsable: false
 
 #### Fully Remote
 
-- Part of the development of a shared service (Ruby on Rails application deployed on Heroku with AWS S3/CloudFront) for issuing "badges" to signify and encourage user progress across RPF products.
 - Maintained and developed new features for the [projects site](https://projects.raspberrypi.org/) and [Code Club World](https://codeclubworld.org/).
 - Scoped and oversaw the development of a major overhaul of the Project Site pathways and implemented CI/CD improvements to significantly speed up content builds.

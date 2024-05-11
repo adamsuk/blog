@@ -6,6 +6,5 @@ collapsable: false
 
 #### Fully Remote
 
-- Responsible for the technical output and line managing a small team of developers (ranging from 2 to 4, mid to senior level).
-- Prepared the board, completed the initial breakdown of tickets and held agile sprint ceremonies to support our OKRs.
-- Maintained and developed new features for the [Code Editor](https://editor.raspberrypi.org), [Projects Site](https://projects.raspberrypi.org/) and [Code Club World](https://codeclubworld.org/). Responsible for the development and improvement of [Experience AI](https://experience-ai.org).
+- Responsible for the technical output and line managing a team of developers (currently 4, mid to senior level with the inclusion of 3 subcontractors).
+- Maintained and developed new features for the [Code Editor](https://editor.raspberrypi.org), [Projects Site](https://projects.raspberrypi.org/) and [Code Club World](https://codeclubworld.org/). Responsible for the initial development and improvements of [Experience AI](https://experience-ai.org).
