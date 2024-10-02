@@ -4,7 +4,7 @@ level: 2
 collapsable: false
 ---
 
-#### Raynesway, Derby.
+#### Raynesway, Derby // Engineering
 
 - Completed all code validation activities for an extensive Loss Of Coolant Accident (LOCA) test rig programme.
 - Developed a flexible thermal hydraulic performance analysis method (Python based) to inform the design of the Rolls-Royce led UK SMR programme (initially as a developer and later becoming the workstream lead for key analysis and analysis method update developments) – 18 month placement.

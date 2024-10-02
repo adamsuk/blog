@@ -4,4 +4,4 @@ level: 3
 collapsable: true
 ---
 
-##### Long Field Academy, Melton Mowbray, Leicestershire.
+##### Long Field Academy, Melton Mowbray, Leicestershire // Education

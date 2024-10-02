@@ -4,7 +4,7 @@ level: 2
 collapsable: false
 ---
 
-#### Fully Remote
+#### Fully Remote // EdTech
 
 - Maintained and developed new features for the [Projects Site](https://projects.raspberrypi.org/) and [Code Club World](https://codeclubworld.org/).
 - Scoped and oversaw the development of a major overhaul of the Project Site pathways and implemented CI/CD improvements to significantly reduce content build times.

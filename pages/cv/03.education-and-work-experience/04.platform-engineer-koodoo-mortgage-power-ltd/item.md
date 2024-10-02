@@ -4,7 +4,7 @@ level: 2
 collapsable: false
 ---
 
-#### Fully Remote
+#### Fully Remote // FinTech
 
 - Provisioned and maintained cloud infrastructure (GCP with some AWS and Azure) and CI/CD pipelines.
 - Enabled the adoption of Next.js and Helm.
