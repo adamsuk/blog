@@ -4,7 +4,7 @@ level: 2
 collapsable: false
 ---
 
-#### Fully Remote
+#### Fully Remote // EdTech
 
 - Technically led and line managed a team of 5 engineers, ranging from junior to senior level, to maintain and develop new features on the Foundations flagship offerings [Code Editor](https://editor.raspberrypi.org) and [Projects Site](https://projects.raspberrypi.org/) as well as [Code Club World](https://codeclubworld.org/) and the initial development of [Experience AI](https://experience-ai.org).
 - Responsibly for the technical implementation and successfully delivery of the integration of the Code Editor into the Projects Site for a more encompassing user learning experience.
