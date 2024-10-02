@@ -5,4 +5,4 @@ collapsable: false
 ---
 
 Experience: Software Engineering Manager, Senior Software Engineer, Platform Engineer, Nuclear Engineer\
-Key Skills: Javascript, Python, Ruby, Terraform, Docker, Kubernetes, Github, Gitlab, CircleCI, Github Actions, GCP, AWS, PostgreSQL, MongoDB, GraphQL
+Key Skills: Javascript, Python, Ruby, Terraform, Docker, Kubernetes, Github, Gitlab, CircleCI, Actions, GCP, AWS, PostgreSQL, MongoDB
